@@ -6,7 +6,7 @@ body, h1, h2, p {
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #e50f0f;
+    background-color: #c8ebfb;
     color: #333;
     text-align: center;
 }
@@ -67,3 +67,4 @@ footer {
         font-size: 1.5rem;
     }
 }
+
